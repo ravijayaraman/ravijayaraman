@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ravijayaraman
+- 👋 Hi, I’m Ravi
 - 👀 I’m interested in Web performance engineering
 - 🌱 I’m currently learning UI/UX for micro-interactions
 - 💞️ I’m looking to collaborate on VueJS and JavaScript libraries
